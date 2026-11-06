@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "title": "Paths of life",
+      "title": "IP Design - Feifei",
       "slug": "paths-of-life",
       "description": "Paths of Life is a short film about the different paths we take through life; it features a main character and graphic forms that metaphorically and conceptually illustrate the journey of this main character.",
       "year": 2024,
@@ -12,22 +12,22 @@
         {
           "type": "image",
           "src": "/assets/paths-of-life-detail-1.webp",
-          "alt": "Paths of life"
+          "alt": "IP Design - Feifei"
         },
         {
           "type": "image",
           "src": "/assets/paths-of-life-detail-2.webp",
-          "alt": "Paths of life"
+          "alt": "IP Design - Feifei"
         },
         {
           "type": "image",
           "src": "/assets/paths-of-life-detail-3.webp",
-          "alt": "Paths of life"
+          "alt": "IP Design - Feifei"
         }
       ]
     },
     {
-      "title": "IP-Design-Mokin",
+      "title": "IP Design - Manqi",
       "slug": "the-disease-spread-on-tiktok",
       "description": "Manqi (MONKI) is a 24-year-old laid-back lifestyle creative designer, and the principal of Half-Slow Design Studio.\nSensitive, insightful, with a touch of dry humour, he excels at uncovering genuine issues hidden in the trivialities of daily life. Born out of reflections on fast-paced living, MONKI aims to convey a life attitude — *\"Slower progress is still moving forward\"* — through a warm, laid-back persona.",
       "year": 2024,
@@ -38,37 +38,37 @@
         {
           "type": "image",
           "src": "/assets/the-disease-spread-on-tiktok-1.png",
-          "alt": "IP-Design-Mokin"
+          "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
           "src": "/assets/the-disease-spread-on-tiktok-2.png",
-          "alt": "IP-Design-Mokin"
+          "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
           "src": "/assets/the-disease-spread-on-tiktok-3.png",
-          "alt": "IP-Design-Mokin"
+          "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
           "src": "/assets/the-disease-spread-on-tiktok-4.png",
-          "alt": "IP-Design-Mokin"
+          "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
           "src": "/assets/the-disease-spread-on-tiktok-5.png",
-          "alt": "IP-Design-Mokin"
+          "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
           "src": "/assets/the-disease-spread-on-tiktok-6.png",
-          "alt": "IP-Design-Mokin"
+          "alt": "IP Design - Manqi"
         }
       ]
     },
     {
-      "title": "Ah, Psychedelics",
+      "title": "Dictionary Pen",
       "slug": "ah-psychedelics",
       "description": "What if psychedelics weren't just drugs, but medical treatments? This motion design explores the therapeutic potential of psychedelics, using scientific research to deconstruct preconceived ideas.",
       "year": 2025,
@@ -79,22 +79,22 @@
         {
           "type": "image",
           "src": "/assets/ah-psychedelics-detail-1.webp",
-          "alt": "Ah, Psychedelics"
+          "alt": "Dictionary Pen"
         },
         {
           "type": "image",
           "src": "/assets/ah-psychedelics-detail-2.webp",
-          "alt": "Ah, Psychedelics"
+          "alt": "Dictionary Pen"
         },
         {
           "type": "image",
           "src": "/assets/ah-psychedelics-detail-3.webp",
-          "alt": "Ah, Psychedelics"
+          "alt": "Dictionary Pen"
         }
       ]
     },
     {
-      "title": "Thought",
+      "title": "AI Desk Lamp",
       "slug": "thought",
       "description": "Exploring the emergence of new, spontaneous ideas.",
       "year": 2025,
@@ -105,22 +105,22 @@
         {
           "type": "image",
           "src": "/assets/thought-detail-1.webp",
-          "alt": "Thought"
+          "alt": "AI Desk Lamp"
         },
         {
           "type": "image",
           "src": "/assets/thought-detail-2.webp",
-          "alt": "Thought"
+          "alt": "AI Desk Lamp"
         },
         {
           "type": "image",
           "src": "/assets/thought-detail-3.webp",
-          "alt": "Thought"
+          "alt": "AI Desk Lamp"
         }
       ]
     },
     {
-      "title": "Jupiter",
+      "title": "Gununu",
       "slug": "jupiter",
       "description": "Release motion created a few months ago for Jupiter, to mark the launch of their stablecoin.",
       "year": 2026,
@@ -131,22 +131,22 @@
         {
           "type": "image",
           "src": "/assets/jupiter-detail-1.png",
-          "alt": "Jupiter"
+          "alt": "Gununu"
         },
         {
           "type": "image",
           "src": "/assets/jupiter-detail-2.png",
-          "alt": "Jupiter"
+          "alt": "Gununu"
         },
         {
           "type": "image",
           "src": "/assets/jupiter-detail-3.png",
-          "alt": "Jupiter"
+          "alt": "Gununu"
         }
       ]
     },
     {
-      "title": "Chromatik",
+      "title": "Smart Glasses",
       "slug": "chromatik",
       "description": "A visual and sound experiment. Shapes, blend tones, and retro tones collide to create a playful study in motion & texture.",
       "year": 2025,
@@ -157,22 +157,22 @@
         {
           "type": "image",
           "src": "/assets/chromatik-detail-1.webp",
-          "alt": "Chromatik"
+          "alt": "Smart Glasses"
         },
         {
           "type": "image",
           "src": "/assets/chromatik-detail-2.webp",
-          "alt": "Chromatik"
+          "alt": "Smart Glasses"
         },
         {
           "type": "image",
           "src": "/assets/chromatik-detail-3.webp",
-          "alt": "Chromatik"
+          "alt": "Smart Glasses"
         }
       ]
     },
     {
-      "title": "Digital Travel",
+      "title": "Translation Headphones",
       "slug": "digital-travel",
       "description": "A personal project in which a user logs on to his computer ans clicks on a simple play button, leading to the appearance of shapes, colors and anything else that might happen inside a computer while it's loading.",
       "year": 2024,
@@ -183,22 +183,22 @@
         {
           "type": "image",
           "src": "/assets/digital-travel-detail-1.webp",
-          "alt": "Digital Travel"
+          "alt": "Translation Headphones"
         },
         {
           "type": "image",
           "src": "/assets/digital-travel-detail-2.webp",
-          "alt": "Digital Travel"
+          "alt": "Translation Headphones"
         },
         {
           "type": "image",
           "src": "/assets/digital-travel-detail-3.webp",
-          "alt": "Digital Travel"
+          "alt": "Translation Headphones"
         }
       ]
     },
     {
-      "title": "Mercedes AMG",
+      "title": "3D Presentation",
       "slug": "mercedes-amg",
       "description": "AMG-GT is a 3D motion study project made at school, using Cinema4D and AfterEffects.",
       "year": 2025,
@@ -209,17 +209,17 @@
         {
           "type": "image",
           "src": "/assets/mercedes-amg-detail-1.jpg",
-          "alt": "Mercedes AMG"
+          "alt": "3D Presentation"
         },
         {
           "type": "image",
           "src": "/assets/mercedes-amg-detail-2.jpg",
-          "alt": "Mercedes AMG"
+          "alt": "3D Presentation"
         }
       ]
     },
     {
-      "title": "The purity revealed",
+      "title": "Design Project Summary",
       "slug": "the-purity-revealed",
       "description": "A personal project in which I imagined a collaboration between the Swarovski brand and Evian. The collaboration would involve distributing limited edition products from both brands at events such as Roland Garros, Fashion Week, Dubai Week and the Met Gala.",
       "year": 2025,
@@ -230,22 +230,22 @@
         {
           "type": "image",
           "src": "/assets/the-purity-revealed-detail-1.png",
-          "alt": "The purity revealed"
+          "alt": "Design Project Summary"
         },
         {
           "type": "image",
           "src": "/assets/the-purity-revealed-detail-2.png",
-          "alt": "The purity revealed"
+          "alt": "Design Project Summary"
         },
         {
           "type": "image",
           "src": "/assets/the-purity-revealed-detail-3.png",
-          "alt": "The purity revealed"
+          "alt": "Design Project Summary"
         },
         {
           "type": "image",
           "src": "/assets/the-purity-revealed-detail-4.png",
-          "alt": "The purity revealed"
+          "alt": "Design Project Summary"
         }
       ]
     }
