@@ -146,7 +146,7 @@
       ]
     },
     {
-      "title": "Smart Glasses",
+      "title": "Design Project Summary",
       "slug": "chromatik",
       "description": "A visual and sound experiment. Shapes, blend tones, and retro tones collide to create a playful study in motion & texture.",
       "year": 2025,
@@ -157,17 +157,17 @@
         {
           "type": "image",
           "src": "/assets/chromatik-detail-1.webp",
-          "alt": "Smart Glasses"
+          "alt": "Design Project Summary"
         },
         {
           "type": "image",
           "src": "/assets/chromatik-detail-2.webp",
-          "alt": "Smart Glasses"
+          "alt": "Design Project Summary"
         },
         {
           "type": "image",
           "src": "/assets/chromatik-detail-3.webp",
-          "alt": "Smart Glasses"
+          "alt": "Design Project Summary"
         }
       ]
     },
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "title": "Design Project Summary",
+      "title": "Smart Glasses",
       "slug": "the-purity-revealed",
       "description": "A personal project in which I imagined a collaboration between the Swarovski brand and Evian. The collaboration would involve distributing limited edition products from both brands at events such as Roland Garros, Fashion Week, Dubai Week and the Met Gala.",
       "year": 2025,
@@ -230,22 +230,22 @@
         {
           "type": "image",
           "src": "/assets/the-purity-revealed-detail-1.png",
-          "alt": "Design Project Summary"
+          "alt": "Smart Glasses"
         },
         {
           "type": "image",
           "src": "/assets/the-purity-revealed-detail-2.png",
-          "alt": "Design Project Summary"
+          "alt": "Smart Glasses"
         },
         {
           "type": "image",
           "src": "/assets/the-purity-revealed-detail-3.png",
-          "alt": "Design Project Summary"
+          "alt": "Smart Glasses"
         },
         {
           "type": "image",
           "src": "/assets/the-purity-revealed-detail-4.png",
-          "alt": "Design Project Summary"
+          "alt": "Smart Glasses"
         }
       ]
     }
