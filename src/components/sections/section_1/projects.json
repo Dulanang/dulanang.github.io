@@ -2,249 +2,284 @@
   "projects": [
     {
       "title": "IP Design - Feifei",
-      "slug": "paths-of-life",
+      "slug": "ip-design-feifei",
       "description": "Paths of Life is a short film about the different paths we take through life; it features a main character and graphic forms that metaphorically and conceptually illustrate the journey of this main character.",
       "year": 2024,
-      "image": "/assets/paths-of-life.png",
+      "image": "/assets/ip-design-feifei.png",
       "playbackId": "79CoZbPvtdGp00mUU3pkRZujFUDwR02LHciDlc9Gl7G7k",
       "url": "https://pacomepertant.com/projects/paths-of-life",
       "blocks": [
         {
           "type": "image",
-          "src": "/assets/paths-of-life-detail-1.webp",
+          "src": "/assets/ip-design-feifei-detail-1.webp",
           "alt": "IP Design - Feifei"
         },
         {
           "type": "image",
-          "src": "/assets/paths-of-life-detail-2.webp",
+          "src": "/assets/ip-design-feifei-detail-2.webp",
           "alt": "IP Design - Feifei"
         },
         {
           "type": "image",
-          "src": "/assets/paths-of-life-detail-3.webp",
+          "src": "/assets/ip-design-feifei-detail-3.webp",
           "alt": "IP Design - Feifei"
         }
       ]
     },
     {
       "title": "IP Design - Manqi",
-      "slug": "the-disease-spread-on-tiktok",
+      "slug": "ip-design-manqi",
       "description": "Manqi (MONKI) is a 24-year-old laid-back lifestyle creative designer, and the principal of Half-Slow Design Studio.\nSensitive, insightful, with a touch of dry humour, he excels at uncovering genuine issues hidden in the trivialities of daily life. Born out of reflections on fast-paced living, MONKI aims to convey a life attitude — *\"Slower progress is still moving forward\"* — through a warm, laid-back persona.",
       "year": 2024,
-      "image": "/assets/the-disease-spread-on-tiktok.png",
+      "image": "/assets/ip-design-manqi.png",
       "playbackId": "tl4p3L4FYyKx6S4j2Vo1ONIsUu1q5QR3YoTvb76f0202o",
       "url": "https://pacomepertant.com/projects/the-disease-spread-on-tiktok",
       "blocks": [
         {
           "type": "image",
-          "src": "/assets/the-disease-spread-on-tiktok-1.png",
+          "src": "/assets/ip-design-manqi-detail-1.png",
           "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
-          "src": "/assets/the-disease-spread-on-tiktok-2.png",
+          "src": "/assets/ip-design-manqi-detail-2.png",
           "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
-          "src": "/assets/the-disease-spread-on-tiktok-3.png",
+          "src": "/assets/ip-design-manqi-detail-3.png",
           "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
-          "src": "/assets/the-disease-spread-on-tiktok-4.png",
+          "src": "/assets/ip-design-manqi-detail-4.png",
           "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
-          "src": "/assets/the-disease-spread-on-tiktok-5.png",
+          "src": "/assets/ip-design-manqi-detail-5.png",
           "alt": "IP Design - Manqi"
         },
         {
           "type": "image",
-          "src": "/assets/the-disease-spread-on-tiktok-6.png",
+          "src": "/assets/ip-design-manqi-detail-6.png",
+          "alt": "IP Design - Manqi"
+        },
+        {
+          "type": "image",
+          "src": "/assets/ip-design-manqi-detail-7.png",
+          "alt": "IP Design - Manqi"
+        },
+        {
+          "type": "image",
+          "src": "/assets/ip-design-manqi-detail-8.png",
+          "alt": "IP Design - Manqi"
+        },
+        {
+          "type": "image",
+          "src": "/assets/ip-design-manqi-detail-9.png",
           "alt": "IP Design - Manqi"
         }
       ]
     },
     {
       "title": "Dictionary Pen",
-      "slug": "ah-psychedelics",
+      "slug": "dictionary-pen",
       "description": "What if psychedelics weren't just drugs, but medical treatments? This motion design explores the therapeutic potential of psychedelics, using scientific research to deconstruct preconceived ideas.",
       "year": 2025,
-      "image": "/assets/ah-psychedelics.png",
+      "image": "/assets/dictionary-pen.png",
       "playbackId": "4T5ePLKwMgGBHjNGk018tJ198RPD5qEaIIc6HQ02MjF5c",
       "url": "https://pacomepertant.com/projects/ah-psychedelics",
       "blocks": [
         {
           "type": "image",
-          "src": "/assets/ah-psychedelics-detail-1.webp",
+          "src": "/assets/dictionary-pen-detail-1.webp",
           "alt": "Dictionary Pen"
         },
         {
           "type": "image",
-          "src": "/assets/ah-psychedelics-detail-2.webp",
+          "src": "/assets/dictionary-pen-detail-2.webp",
           "alt": "Dictionary Pen"
         },
         {
           "type": "image",
-          "src": "/assets/ah-psychedelics-detail-3.webp",
+          "src": "/assets/dictionary-pen-detail-3.webp",
           "alt": "Dictionary Pen"
         }
       ]
     },
     {
       "title": "AI Desk Lamp",
-      "slug": "thought",
+      "slug": "ai-desk-lamp",
       "description": "Exploring the emergence of new, spontaneous ideas.",
       "year": 2025,
-      "image": "/assets/thought.png",
+      "image": "/assets/ai-desk-lamp.png",
       "playbackId": "xID01eUh12oDNh5MRbAh6fRHQtlq6upbqwinWRzWnE38",
       "url": "https://pacomepertant.com/projects/thought",
       "blocks": [
         {
           "type": "image",
-          "src": "/assets/thought-detail-1.webp",
+          "src": "/assets/ai-desk-lamp-detail-1.webp",
           "alt": "AI Desk Lamp"
         },
         {
           "type": "image",
-          "src": "/assets/thought-detail-2.webp",
+          "src": "/assets/ai-desk-lamp-detail-2.webp",
           "alt": "AI Desk Lamp"
         },
         {
           "type": "image",
-          "src": "/assets/thought-detail-3.webp",
+          "src": "/assets/ai-desk-lamp-detail-3.webp",
           "alt": "AI Desk Lamp"
         }
       ]
     },
     {
       "title": "Gununu",
-      "slug": "jupiter",
+      "slug": "gununu",
       "description": "Release motion created a few months ago for Jupiter, to mark the launch of their stablecoin.",
       "year": 2026,
-      "image": "/assets/jupiter.png",
+      "image": "/assets/gununu.png",
       "playbackId": "00j0002c6600iaejjGj002bhmaJqSlW02PstH7do6QJRPJImM",
       "url": "https://pacomepertant.com/projects/jupiter",
       "blocks": [
         {
           "type": "image",
-          "src": "/assets/jupiter-detail-1.png",
+          "src": "/assets/gununu-detail-1.png",
           "alt": "Gununu"
         },
         {
           "type": "image",
-          "src": "/assets/jupiter-detail-2.png",
+          "src": "/assets/gununu-detail-2.png",
           "alt": "Gununu"
         },
         {
           "type": "image",
-          "src": "/assets/jupiter-detail-3.png",
+          "src": "/assets/gununu-detail-3.png",
+          "alt": "Gununu"
+        },
+        {
+          "type": "image",
+          "src": "/assets/gununu-detail-4.png",
           "alt": "Gununu"
         }
       ]
     },
     {
       "title": "Design Project Summary",
-      "slug": "chromatik",
+      "slug": "design-project-summary",
       "description": "A visual and sound experiment. Shapes, blend tones, and retro tones collide to create a playful study in motion & texture.",
       "year": 2025,
-      "image": "/assets/chromatik.png",
+      "image": "/assets/design-project-summary.png",
       "playbackId": "02Bf00ukchvF00C017njOiuDYNLW6HjDDgCFq6FL8eal1k8",
       "url": "https://pacomepertant.com/projects/chromatik",
       "blocks": [
         {
           "type": "image",
-          "src": "/assets/chromatik-detail-1.webp",
+          "src": "/assets/design-project-summary-detail-1.webp",
           "alt": "Design Project Summary"
         },
         {
           "type": "image",
-          "src": "/assets/chromatik-detail-2.webp",
+          "src": "/assets/design-project-summary-detail-2.webp",
           "alt": "Design Project Summary"
         },
         {
           "type": "image",
-          "src": "/assets/chromatik-detail-3.webp",
+          "src": "/assets/design-project-summary-detail-3.webp",
           "alt": "Design Project Summary"
         }
       ]
     },
     {
       "title": "Translation Headphones",
-      "slug": "digital-travel",
+      "slug": "translation-headphones",
       "description": "A personal project in which a user logs on to his computer ans clicks on a simple play button, leading to the appearance of shapes, colors and anything else that might happen inside a computer while it's loading.",
       "year": 2024,
-      "image": "/assets/digital-travel.png",
+      "image": "/assets/translation-headphones.png",
       "playbackId": "ju6elgST7uaWqO9MLc4ODA9V8dkOLmYFdrbSPtXTFaM",
       "url": "https://pacomepertant.com/projects/digital-travel",
       "blocks": [
         {
           "type": "image",
-          "src": "/assets/digital-travel-detail-1.webp",
+          "src": "/assets/translation-headphones-detail-1.webp",
           "alt": "Translation Headphones"
         },
         {
           "type": "image",
-          "src": "/assets/digital-travel-detail-2.webp",
+          "src": "/assets/translation-headphones-detail-2.webp",
           "alt": "Translation Headphones"
         },
         {
           "type": "image",
-          "src": "/assets/digital-travel-detail-3.webp",
+          "src": "/assets/translation-headphones-detail-3.webp",
           "alt": "Translation Headphones"
         }
       ]
     },
     {
       "title": "3D Presentation",
-      "slug": "mercedes-amg",
+      "slug": "3d-presentation",
       "description": "AMG-GT is a 3D motion study project made at school, using Cinema4D and AfterEffects.",
       "year": 2025,
-      "image": "/assets/mercedes-amg.png",
+      "image": "/assets/3d-presentation.png",
       "playbackId": "J6q7eMxUJgjTxJbliCliQSeZtUQYN00iAONNIkyFEZYE",
       "url": "https://pacomepertant.com/projects/mercedes-amg",
       "blocks": [
         {
           "type": "image",
-          "src": "/assets/mercedes-amg-detail-1.jpg",
+          "src": "/assets/3d-presentation-detail-1.jpg",
           "alt": "3D Presentation"
         },
         {
           "type": "image",
-          "src": "/assets/mercedes-amg-detail-2.jpg",
+          "src": "/assets/3d-presentation-detail-2.jpg",
           "alt": "3D Presentation"
         }
       ]
     },
     {
       "title": "Smart Glasses",
-      "slug": "the-purity-revealed",
+      "slug": "smart-glasses",
       "description": "A personal project in which I imagined a collaboration between the Swarovski brand and Evian. The collaboration would involve distributing limited edition products from both brands at events such as Roland Garros, Fashion Week, Dubai Week and the Met Gala.",
       "year": 2025,
-      "image": "/assets/the-purity-revealed.png",
+      "image": "/assets/smart-glasses.png",
       "playbackId": "qAQWnnz023A00z77cnBAm18r6vyFgkcde9EKurPYVIZAM",
       "url": "https://pacomepertant.com/projects/the-purity-revealed",
       "blocks": [
         {
           "type": "image",
-          "src": "/assets/the-purity-revealed-detail-1.png",
+          "src": "/assets/smart-glasses-detail-1.png",
           "alt": "Smart Glasses"
         },
         {
           "type": "image",
-          "src": "/assets/the-purity-revealed-detail-2.png",
+          "src": "/assets/smart-glasses-detail-2.png",
           "alt": "Smart Glasses"
         },
         {
           "type": "image",
-          "src": "/assets/the-purity-revealed-detail-3.png",
+          "src": "/assets/smart-glasses-detail-3.png",
           "alt": "Smart Glasses"
         },
         {
           "type": "image",
-          "src": "/assets/the-purity-revealed-detail-4.png",
+          "src": "/assets/smart-glasses-detail-4.png",
+          "alt": "Smart Glasses"
+        },
+        {
+          "type": "image",
+          "src": "/assets/smart-glasses-detail-5.png",
+          "alt": "Smart Glasses"
+        },
+        {
+          "type": "image",
+          "src": "/assets/smart-glasses-detail-6.png",
+          "alt": "Smart Glasses"
+        },
+        {
+          "type": "image",
+          "src": "/assets/smart-glasses-detail-7.png",
           "alt": "Smart Glasses"
         }
       ]

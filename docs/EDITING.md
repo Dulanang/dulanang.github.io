@@ -11,10 +11,24 @@
 
 以第一个项目为例：
 
-- `paths-of-life.png`：首页封面、列表预览及详情首图。
-- `paths-of-life-detail-1.webp`：第一张详情图。
-- `paths-of-life-detail-2.webp`：第二张详情图。
-- `paths-of-life-detail-3.webp`：第三张详情图。
+- `ip-design-feifei.png`：首页封面、列表预览及详情首图。
+- `ip-design-feifei-detail-1.webp`：第一张详情图。
+- `ip-design-feifei-detail-2.webp`：第二张详情图。
+- `ip-design-feifei-detail-3.webp`：第三张详情图。
+
+九个项目的素材前缀如下：
+
+| 项目 | 素材前缀 |
+| --- | --- |
+| IP Design - Feifei | `ip-design-feifei` |
+| IP Design - Manqi | `ip-design-manqi` |
+| Dictionary Pen | `dictionary-pen` |
+| AI Desk Lamp | `ai-desk-lamp` |
+| Gununu | `gununu` |
+| Design Project Summary | `design-project-summary` |
+| Translation Headphones | `translation-headphones` |
+| 3D Presentation | `3d-presentation` |
+| Smart Glasses | `smart-glasses` |
 
 导出为相同格式和文件名后覆盖原文件。不能只更改扩展名来转换格式。刷新本地页面即可查看；已经构建或部署的版本需要重新构建。
 
@@ -46,16 +60,16 @@
 
 在 `public/assets/` 中使用 `项目slug-1.png`、`项目slug-2.png`、`项目slug-3.png` 等名称，编号可以一直增加。支持 PNG、JPG、JPEG、WebP、AVIF、GIF；同一个编号只保留一种格式。
 
-例如 IP-Design-Mokin 继续沿用原文件名前缀：
+例如 IP Design - Manqi 使用与项目名称对应的文件名前缀：
 
 ```text
-the-disease-spread-on-tiktok-1.png
-the-disease-spread-on-tiktok-2.png
+ip-design-manqi-1.png
+ip-design-manqi-2.png
 ...
-the-disease-spread-on-tiktok-6.png
+ip-design-manqi-6.png
 ```
 
-未带数字的 `the-disease-spread-on-tiktok.png` 是独立封面，不计入 6 张详情图。自动排序采用数字顺序（2 排在 10 前面）。不要求连续编号。
+未带数字的 `ip-design-manqi.png` 是独立封面，不计入 6 张详情图。自动排序采用数字顺序（2 排在 10 前面）。不要求连续编号。
 
 启动 `pnpm dev` 或运行 `pnpm build` 时会自动扫描并更新项目配置。已运行的开发预览中新增图片后，执行 `pnpm sync:images`；4173 构建预览需要重新执行 `pnpm build` 后刷新。
 
